@@ -1,8 +1,6 @@
-const Image =(props)=>{
-    const {src, alt, classname} = props
-    return (
-        <img src={src} alt={alt} classname={classname}/>
-    )
-}
+const Image = (props) => {
+  const { src, classStyle } = props;
+  return <img src={src} alt="pexel.com" className={classStyle} />;
+};
 
-export default Image
+export default Image;
