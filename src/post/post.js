@@ -1,5 +1,6 @@
 import Profile from "../profile/profile"
 import Image from "../image/image"
+import Reaction from "../reaction/reaction"
 
 const Post = ()=>{
     return (
@@ -10,7 +11,10 @@ const Post = ()=>{
                 <Image src="" alt="" className=""/>
             </div>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolor magna alique</p>
-            
+            <Reaction/>
+            <div className="flex">
+                <input placeholder="write a comment"/>
+            </div>
         </div>
     )
 }
