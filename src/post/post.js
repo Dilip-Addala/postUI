@@ -7,7 +7,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 const Post = () => {
   return (
-    <div className="w-52 md:w-96 bg-white h-full w-full rounded-xl p-3 flex flex-col justify-evenly">
+    <div className="w-52 md:w-2/6 bg-white h-full w-full rounded-xl p-3 flex flex-col justify-evenly">
       <div className="flex items-center mb-3">
         <Image
           src="https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1600"
