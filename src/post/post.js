@@ -69,14 +69,14 @@ const Post = () => {
         </div>
       </div>
       <Comment
-        src="https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        src=" https://images.pexels.com/photos/7562313/pexels-photo-7562313.jpeg?auto=compress&cs=tinysrgb&h=566.525&fit=crop&w=633.175&dpr=1"
         name="Leslie Alexander"
         comment="Lorem ipsum dolor sit amet, consectetur."
         time="25 minutes"
         reactionCount="12"
       />
       <Comment
-        src="https://images.pexels.com/photos/7562313/pexels-photo-7562313.jpeg?auto=compress&cs=tinysrgb&h=566.525&fit=crop&w=633.175&dpr=1"
+        src="https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=1600"
         name="Tina Mills"
         comment="Dolor sit ameteiusmod consectetur adipiscing elit."
         time="3 minutes"
